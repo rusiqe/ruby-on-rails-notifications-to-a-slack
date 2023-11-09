@@ -5,4 +5,4 @@ This script assumes that WHM comments are stored in text files named comment.txt
 
 Make sure to install the required gems before running the script:
 
-gem install httparty inotify
+[code]gem install httparty notify[/code]
